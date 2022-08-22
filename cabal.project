@@ -1,0 +1,7 @@
+packages: ./.
+
+source-repository-package
+    type: git
+    location: https://github.com/bsaul/dhall-th-example
+    tag: ff93c1485faf479bb0e9bcaf39ae430e11e02a3f
+    subdir: silly 
